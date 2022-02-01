@@ -1,5 +1,9 @@
 # The Pocket Zoo
 
-A web application that displays different kinds of animals consumed from an API. The animals are fetched by making GET requests to an Animal JSON API. Utilizes React on the front end.
++ Developed a web application that makes you feel like you are at a zoo. 
++ Created a minimalist UI with React.
++ Applied API fetching to an Animal JSON API.
+
+Technologies used: React, Javascript, HTML, CSS
 
 [Visit Live Version](https://the-pocketzoo.web.app/)
