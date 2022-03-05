@@ -58,7 +58,7 @@ class App extends React.Component {
                                     <li>Range&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;: {animalentry.geo_range}</li>
                                 </ul>
                             </div>
-                </div>
+                    </div>
                 </div>
             </div>
         )
